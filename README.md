@@ -29,13 +29,30 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
 
+
+
 2. Explain the difference between a callback and a higher order function.
+
+-Callback function is function that get passed to another function as a argument.
+
+-Higher order function are functions that operate on other functions, either by taking them as arguments or by returning them.
+
 
 3. What is closure?
 
+-is the combination of a function bundled together ith references to its surrounding environment.
+
 4. Describe the four rules of the 'this' keyword.
+ implicit binding
+ explicit binding
+ call() method
+ apply() method
+ bind() method
 
 5. Why do we need super() in an extended class?
+
+ -Super is the substitute of call,apply and prototype, it is there to make is easier,cleaner and shorter code.
+
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
